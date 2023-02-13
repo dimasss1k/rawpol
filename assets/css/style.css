@@ -550,6 +550,8 @@ a {
   .dflex {
     display: flex;
     margin-top: 40px;
+	width: 1110px;
+    margin: 0 auto;
     flex-wrap: wrap;
     justify-content: space-evenly;
   }
@@ -2051,6 +2053,9 @@ nav{width:100%;}
   .header_bottom {
     display: none;
   }
+	.dflex {
+	width: auto;
+	}
   .d-flex {
     flex-direction: column;
     justify-content: center;
